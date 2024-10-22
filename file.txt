@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+he is sweet
+and kind
+ bye
+=======
 hi hello how are you ?
+>>>>>>> a111cf1605d09d1664057e95c307cbd212aede59
